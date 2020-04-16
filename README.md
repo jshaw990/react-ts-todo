@@ -14,7 +14,7 @@ Made with tutorial by [Alex Devero](https://medium.com/javascript-in-plain-engli
 ```npm run start```
 
 ## Run Tests 
-```npm run tests
+```npm run tests```
 
 ## Author
 [Jayden Shaw](https://github.com/jshaw990)
